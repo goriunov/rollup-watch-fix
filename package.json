@@ -1,0 +1,14 @@
+{
+  "name": "rollup-watch-fix",
+  "version": "0.0.2",
+  "description": "Fix for rollup-watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rollup-watch-fix": "./index.js"
+  },
+  "author": "Dmitrii Goriunov",
+  "license": "ISC"
+}
